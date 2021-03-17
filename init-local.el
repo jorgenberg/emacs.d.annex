@@ -11,6 +11,7 @@
 (require 'init-annex-haskell)
 (require 'init-annex-markdown)
 (require 'init-annex-yafolding)
+(require 'init-annex-python)
 
 ;;
 ;; flyspell in some additional modes
